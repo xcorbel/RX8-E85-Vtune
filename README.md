@@ -2,6 +2,9 @@
 Versatune tuning files and materials for E-85  
 Use at your own Risk read the commit and release messages 
 
+New version 1.10 Base Map with few mods to 
+-just allow switching to E-85 with near stock Map.
+
 New version 1.08 in 3 flavors for this 3 use cases
 -Multiply VE table add 30%
 -Remove injectors scaling 30%
